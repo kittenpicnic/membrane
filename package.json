@@ -10,6 +10,6 @@
     "examples": "node examples/index.js"
   },
   "devDependencies": {
-    "jest": "^26.6.3"
+    "jest": "^27.2.3"
   }
 }
